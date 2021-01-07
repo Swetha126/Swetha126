@@ -10,7 +10,7 @@
 - 😄 Pronouns: She/Her
 
 ## 🧰 Languages and Tools:
-<p align="center">
+<p align="left">
 <img src="https://github.com/Swetha126/Swetha126/blob/main/1024px-Kotlin-logo.svg.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Swetha126/Swetha126/blob/main/images.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Swetha126/Swetha126/blob/main/css3-cascading-style-sheets-logo-html-png-favpng-zNceG1C3PUpjKThDUF68AN96N.jpg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
