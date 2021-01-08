@@ -20,3 +20,5 @@
 <img src="https://github.com/Swetha126/Swetha126/blob/main/aws-logo.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetha126&theme=radical)
+
