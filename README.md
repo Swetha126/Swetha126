@@ -19,6 +19,7 @@
 <img src="https://github.com/Swetha126/Swetha126/blob/main/social-icon-google-cloud-1200-630.png" alt="Google Cloud" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Swetha126/Swetha126/blob/main/aws-logo.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
 </p>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Swetha126&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetha126&theme=radical)
 
