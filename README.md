@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Hi there 👋 I'm Swetha 🙋‍♀️ CSE IOT student at SRM University
 
 
 - 🔭 I’m currently working on improving my skills 
@@ -20,6 +19,17 @@
 <img src="https://github.com/Swetha126/Swetha126/blob/main/aws-logo.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Swetha126&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetha126&theme=radical)
+## 🏆 My Github Stats:
 
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=Swetha126&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Swetha126&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Swetha126&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Swetha126&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Swetha126&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Swetha126&hide=php&theme=tokyonight" />
+</a>
+</div>
