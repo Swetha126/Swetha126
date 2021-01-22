@@ -1,14 +1,16 @@
 ## Hi there 👋 I'm Swetha 🙋‍♀️ CSE IOT student at SRM University
-
-
-- 🔭 I’m currently working on improving my skills 
-- 🌱 I’m currently learning Cloud Computing and Data Structures 
-- 👯 I’m looking to collaborate on interesting projects 
-- 🤔 I’m looking for help with Website designing 
-- 💬 Ask me about Anything 
-- 😄 Pronouns: She/Her
-
+<ul>
+<img align='right' src="https://github.com/Swetha126/Swetha126/blob/main/work.gif" width="365px"><br>
+<li> 🔭 I’m currently working on improving my skills </li>
+<li> 🌱 I’m currently learning Cloud Computing and Data Structures </li>
+<li> 👯 I’m looking to collaborate on interesting projects </li>
+<li> 🤔 I’m looking for help with App Development </li>
+<li> 💬 Ask me about Anything </li>
+<li> 😄 Pronouns: She/Her </li>
+<li> ⚡ Music Lover </li>
+<ul>
 ## 🧰 Languages and Tools:
+
 <p align="center">
 <img src="https://github.com/Swetha126/Swetha126/blob/main/1024px-Kotlin-logo.svg.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Swetha126/Swetha126/blob/main/99f887833c475448723d3c9ac16c179b.png" alt="Cpp" height="40" style="vertical-align:top; margin:4px">
@@ -36,7 +38,7 @@
 </a>
 </div>
 
-## Find me around the web <img src=" " width="24px"> :
+## Find me around the web <img src="https://github.com/Swetha126/Swetha126/blob/main/world.gif" width="24px"> :
 
 <img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/swetha12602">swetha12602</a> 
 
