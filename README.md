@@ -42,11 +42,12 @@
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Swetha126&hide=php&theme=radical">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Swetha126&hide=php&theme=radical" />
-</a><br><br>
+</a>
 </div>
 </div>
 
 <div align="center">
+<br><bR>
 <table>
    <tr>
     <td>You are visitor</td>
