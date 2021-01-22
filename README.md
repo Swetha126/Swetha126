@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Swetha 🙋‍♀️ CSE IOT student at SRM University
 <ul>
-<img align='right' src="https://github.com/Swetha126/Swetha126/blob/main/work.gif" width="365px"><br>
+<img align='right' src="https://github.com/Swetha126/Swetha126/blob/main/work.gif" width="300px"><br>
 <li> 🔭 I’m currently working on improving my skills </li>
 <li> 🌱 I’m currently learning Cloud Computing and Data Structures </li>
 <li> 👯 I’m looking to collaborate on interesting projects </li>
