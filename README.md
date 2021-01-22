@@ -29,6 +29,23 @@
 
 <img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/"> &nbsp; Swetha Ramachandran</a> 
 
+<div align="center">
+
+<table>
+   <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Swetha126/count.svg" alt="vistor count" height="50" /></td>
+   </tr>
+  </table>
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)   [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Swetha126-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/)](https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/)
+[![MAIL Badge](https://img.shields.io/badge/-swetharamachandran126@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swetharamachandran126@gmail.com)](mailto:swetharamachandran126@gmail.com)
+</div></p>
+
+
 ## 🏆 My Github Stats:
 
 <!--
@@ -60,22 +77,7 @@
 
 
 
-## ❤ Thanks for visiting my page!
-<div align="center">
 
-<table>
-   <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/Swetha126/count.svg" alt="vistor count" height="50" /></td>
-   </tr>
-  </table>
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)   [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Swetha126-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/)](https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/)
-[![MAIL Badge](https://img.shields.io/badge/-swetharamachandran126@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swetharamachandran126@gmail.com)](mailto:swetharamachandran126@gmail.com)
-</div></p>
 
 
 
