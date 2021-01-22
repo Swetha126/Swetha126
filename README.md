@@ -45,10 +45,7 @@
 </a>
 </div>
 </div>
-
-
-
-
+<br>
 ## ❤ Thanks for visiting my page!
 <div align="center">
 <br><bR>
