@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Swetha 🙋‍♀️ CSE IOT student at SRM University
 
-<img align='right' src="https://github.com/Swetha126/Swetha126/blob/main/work.gif" width="365px">
+<img align='right' src="https://github.com/Swetha126/Swetha126/blob/main/work.gif" width="300px">
  
  - 🔭 I’m currently working on improving my skills 
  - 🌱 I’m currently learning Cloud Computing and Data Structures 
@@ -23,11 +23,11 @@
 <img src="https://github.com/Swetha126/Swetha126/blob/main/Picture2.png" alt="GC" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## <img src="https://github.com/Swetha126/Swetha126/blob/main/world.gif" width="24px"> &nbsp Find me around the web : 
+## <img src="https://github.com/Swetha126/Swetha126/blob/main/world.gif" width="24px"> &nbsp; Find me around the web : 
 
-<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/swetha12602"> &nbsp swetha12602</a> 
+<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/swetha12602"> &nbsp; swetha12602</a> 
 
-<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/"> &nbsp Swetha Ramachandran</a> 
+<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/"> &nbsp; Swetha Ramachandran</a> 
 
 ## 🏆 My Github Stats:
 
@@ -36,6 +36,7 @@
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Swetha126&hide=php&theme=radical)
 -->
 <div align="center">
+<div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Swetha126&count_private=true&show_icons=true&theme=radical">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Swetha126&count_private=true&show_icons=true&theme=radical" />
 </a>
@@ -43,7 +44,8 @@
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Swetha126&hide=php&theme=radical" />
 </a>
 </div>
-
+</div>
+<br><br>
 <div align="center">
 <table>
    <tr>
