@@ -9,8 +9,7 @@
  - 😄 Pronouns: She/Her 
  - ⚡ Music Lover 
 
-
- <table>
+<table>
    <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/Swetha126/count.svg" alt="vistor count" height="50" /></td>
@@ -18,17 +17,23 @@
   </table>
  </div>
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)   [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Swetha126-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/)](https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/)
+[![MAIL Badge](https://img.shields.io/badge/-swetharamachandran126@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swetharamachandran126@gmail.com)](mailto:swetharamachandran126@gmail.com)
+
 ## 🧰 Languages and Tools:
 
-<p align="left">
-<img src="https://github.com/Swetha126/Swetha126/blob/main/1024px-Kotlin-logo.svg.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Swetha126/Swetha126/blob/main/99f887833c475448723d3c9ac16c179b.png" alt="Cpp" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Swetha126/Swetha126/blob/main/c-programming-569564.png" alt="Cp" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Swetha126/Swetha126/blob/main/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Swetha126/Swetha126/blob/main/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Swetha126/Swetha126/blob/main/Picture1.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Swetha126/Swetha126/blob/main/Picture3.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Swetha126/Swetha126/blob/main/Picture2.png" alt="GC" height="40" style="vertical-align:top; margin:4px">
+<p align="center">
+<code><img src="https://github.com/Swetha126/Swetha126/blob/main/1024px-Kotlin-logo.svg.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px"></code>
+<code><img src="https://github.com/Swetha126/Swetha126/blob/main/99f887833c475448723d3c9ac16c179b.png" alt="Cpp" height="40" style="vertical-align:top; margin:4px"></code>
+<code><img src="https://github.com/Swetha126/Swetha126/blob/main/c-programming-569564.png" alt="Cp" height="40" style="vertical-align:top; margin:4px"></code>
+<code><img src="https://github.com/Swetha126/Swetha126/blob/main/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"></code>
+<code><img src="https://github.com/Swetha126/Swetha126/blob/main/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px"></code>
+<code><img src="https://github.com/Swetha126/Swetha126/blob/main/Picture1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></code>
+<code><img src="https://github.com/Swetha126/Swetha126/blob/main/Picture3.png" alt="AWS" height="40" style="vertical-align:top; margin:4px"></code>
+<code><img src="https://github.com/Swetha126/Swetha126/blob/main/Picture2.png" alt="GC" height="40" style="vertical-align:top; margin:4px"></code>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Swetha126&show_icons=true&theme=radical)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetha126&theme=radical)
 
 </p>
 
