@@ -1,14 +1,14 @@
 ## Hi there 👋 I'm Swetha 🙋‍♀️ CSE IOT student at SRM University
-<ul>
-<img align='right' src="https://github.com/Swetha126/Swetha126/blob/main/work.gif" width="200px"><br>
-<li> 🔭 I’m currently working on improving my skills </li>
-<li> 🌱 I’m currently learning Cloud Computing and Data Structures </li>
-<li> 👯 I’m looking to collaborate on interesting projects </li>
-<li> 🤔 I’m looking for help with App Development </li>
-<li> 💬 Ask me about Anything </li>
-<li> 😄 Pronouns: She/Her </li>
-<li> ⚡ Music Lover </li>
-<ul>
+
+<img align='right' src="https://github.com/Swetha126/Swetha126/blob/main/work.gif" width="365px"><br>
+ - 🔭 I’m currently working on improving my skills 
+ - 🌱 I’m currently learning Cloud Computing and Data Structures 
+ - 👯 I’m looking to collaborate on interesting projects
+ - 🤔 I’m looking for help with App Development 
+ - 💬 Ask me about Anything 
+ - 😄 Pronouns: She/Her 
+ - ⚡ Music Lover 
+
 
  <table>
    <tr>
