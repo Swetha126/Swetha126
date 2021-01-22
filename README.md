@@ -41,14 +41,28 @@
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Swetha126&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Swetha126&hide=php&theme=radical">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Swetha126&hide=php&theme=radical" />
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Swetha126&hide=php&theme=radical" /><br>
 </a>
 </div>
 </div>
-<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## ❤ Thanks for visiting my page!
 <div align="center">
-<br><bR>
+
 <table>
    <tr>
     <td>You are visitor</td>
