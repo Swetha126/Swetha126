@@ -9,6 +9,7 @@
 <li> 😄 Pronouns: She/Her </li>
 <li> ⚡ Music Lover </li>
 <ul>
+
 ## 🧰 Languages and Tools:
 
 <p align="center">
@@ -22,6 +23,13 @@
 <img src="https://github.com/Swetha126/Swetha126/blob/main/Picture2.png" alt="GC" height="40" style="vertical-align:top; margin:4px">
 
 </p>
+
+## Find me around the web <img src="https://github.com/Swetha126/Swetha126/blob/main/world.gif" width="24px"> :
+
+<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/swetha12602">swetha12602</a> 
+
+<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/">Swetha Ramachandran</a> 
+
 
 ## 🏆 My Github Stats:
 
@@ -38,10 +46,5 @@
 </a>
 </div>
 
-## Find me around the web <img src="https://github.com/Swetha126/Swetha126/blob/main/world.gif" width="24px"> :
-
-<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/swetha12602">swetha12602</a> 
-
-<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/">Swetha Ramachandran</a> 
 
 
