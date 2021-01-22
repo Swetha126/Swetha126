@@ -10,6 +10,14 @@
 <li> ⚡ Music Lover </li>
 <ul>
 
+ <table>
+   <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Swetha126/count.svg" alt="vistor count" height="50" /></td>
+   </tr>
+  </table>
+ </div>
+
 ## 🧰 Languages and Tools:
 
 <p align="center">
