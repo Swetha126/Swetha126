@@ -35,7 +35,7 @@
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Swetha126&hide=php&theme=radical" />
 </a>
 </div>
-
+<br>
 ## Find me around the web
 
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/swetha12602">swetha12602</a> 
