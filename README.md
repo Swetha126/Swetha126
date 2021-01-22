@@ -36,7 +36,7 @@
 </a>
 </div>
 
-## Find me around the web
+## Find me around the web <img src=" " width="24px"> :
 
 <img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/swetha12602">swetha12602</a> 
 
