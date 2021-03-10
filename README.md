@@ -9,6 +9,9 @@
  - 😄 Pronouns: She/Her 
  - ⚡ Music Lover 
 
+
+
+
 ## 🧰 Languages and Tools:
 
 <p align="center">
