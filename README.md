@@ -64,7 +64,7 @@
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Swetha126&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Swetha126">
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetha126&layout=compact&theme=radical" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetha126&layout=compact&theme=radical" /><br>
 </a>
 </div>
 </div>
