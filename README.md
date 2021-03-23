@@ -65,7 +65,7 @@
 </a>
 
 <a href="https://github.com/Swetha126">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetha126&layout=compact&theme=radical" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Swetha126&layout=compact&theme=radical" />
 </a>
 </div>
 </div>
