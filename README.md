@@ -46,29 +46,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Swetha126-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/)](https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/)
 [![MAIL Badge](https://img.shields.io/badge/-swetharamachandran126@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swetharamachandran126@gmail.com)](mailto:swetharamachandran126@gmail.com)
 </div></p>
-
-
-
-
-
-
-## 🏆 My Github Stats:
-
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=Swetha126&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Swetha126&hide=php&theme=radical)
--->
-<div align="center">
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Swetha126&count_private=true&show_icons=true&theme=radical">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Swetha126&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Swetha126&hide=php&theme=radical">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Swetha126&hide=php&theme=radical" /><br>
-</a>
-</div>
-</div>
-
-
-
-
