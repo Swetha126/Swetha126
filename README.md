@@ -1,16 +1,13 @@
-## Hi there 👋 I'm Swetha 🙋‍♀️ CSE IOT student at SRM University
+## Hi there 👋 I'm Swetha Ramachandran
  
- - 🔭 I’m currently working on Open Source 
- - 🌱 I’m currently learning Cloud Computing and Data Structures 
- - 👯 I’m looking to collaborate on interesting projects
- - 💬 Ask me about Anything 
+ - ✨ MSc Finance, Technology and Policy at University of Edinburgh
+ - 🎓 Computer Science Engineering graduate from SRM University
+ - 🌱 I’m currently learning SQL, Power BI
+ - 🔭 Looking to collaborate on interesting projects
  - 😄 Pronouns: She/Her 
- - ⚡ Music Lover 
 
 
-
-
-## 🧰 Languages and Tools:
+## Languages and Tools:
 
 <p align="center">
 <img src="https://github.com/Swetha126/Swetha126/blob/main/1024px-Kotlin-logo.svg.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
@@ -23,7 +20,7 @@
 <img src="https://github.com/Swetha126/Swetha126/blob/main/Picture2.png" alt="GC" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## <img src="https://github.com/Swetha126/Swetha126/blob/main/world.gif" width="24px"> &nbsp; Find me around the web : 
+## Find me around the web : 
 
 <img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/swetha12602"> &nbsp; swetha12602</a> 
 
