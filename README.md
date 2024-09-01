@@ -35,9 +35,10 @@
    </tr>
   </table>
 
+![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swetha126&show_icons=true&theme=radical)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)   [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Swetha126-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/)](https://www.linkedin.com/in/swetha-ramachandran-b9a2271b6/)
-[![MAIL Badge](https://img.shields.io/badge/-swetharamachandran126@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swetharamachandran126@gmail.com)](mailto:swetharamachandran126@gmail.com)
+[![MAIL Badge](https://img.shields.io/badge/-swetharamachandran02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swetharamachandran02@gmail.com)](mailto:swetharamachandran02@gmail.com)
 </div></p>
